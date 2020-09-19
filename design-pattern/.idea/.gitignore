@@ -1,8 +1,10 @@
 # ignored files
 /shelf/
 /workspace.xml
-/.idea
+.idea
 /out
 /*.iml
 design-pattern/out
+design-pattern/.idea
+design-pattern/src/design-pattern-in-java.iml
 /Design-pattern-in-java.iml
